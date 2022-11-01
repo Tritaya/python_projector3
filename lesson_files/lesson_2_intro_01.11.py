@@ -14,3 +14,7 @@
 		6. Numbers
 		7. Operation
 '''
+
+a = 5
+b = 10
+print(a, b, a + b,'a - b =',a - b)
