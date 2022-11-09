@@ -6,6 +6,7 @@ Add material:
 	3. https://www.freecodecamp.org
 	4. https://www.datacamp.com
 	5. https://www.w3schools.com/python/default.asp
+	6. https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody - тут є все
 
 	Start Sql:
 	1. https://www.youtube.com/playlist?list=PLf30vI0hEi1v435cBmZSHkr1QAJdOk9mb
@@ -17,4 +18,12 @@ Add material:
 	2. https://www.codewars.com
 	3. https://pynative.com/python-exercises-with-solutions/
 	4. https://leetcode.com
-	
+
+	Math:
+	1. https://www.youtube.com/playlist?list=PLCx14LDfH032-Qj4Et-jax2-QP6c5nc4U - work with matrix
+	2. https://www.youtube.com/playlist?list=PLCx14LDfH033RANLVFVAdFIxFHhy1VXHr - Вишмат
+	3. https://www.youtube.com/playlist?list=PLwwk4BHih4fiHFHG7Bvj5TZdw-H_s4TsA - ТеорВер
+	4. https://www.youtube.com/playlist?list=PLwwk4BHih4fhQbwbctuPMovBuHOM6vGRm - Графи
+
+
+	1. https://learn-anything.xyz/programming - тут можна знайти всі матеріали по всім темам
