@@ -5,7 +5,7 @@
 		https://www.w3schools.com/python/python_syntax.asp - from syntax to lists
 
 	Lesson 2 - 01.11.22
-	Topics:
+	Topics: q
 		1. Commands
 		2. Errors
 		3. Variables
@@ -14,7 +14,6 @@
 		6. Numbers
 		7. Operation
 '''
-c = 'test git'
 a = 5
 b = 10
-print(a, b, a + b,'a - b =',a - b)
+print(a, b, a + b, 'a - b =', a - b)
