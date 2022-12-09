@@ -2,9 +2,9 @@
 import sys
 import socket
 
+
 def check_ip(ip: str, version_ip: str) -> bool:
     pass
-
 
 
 def is_valid_ipv4_address(address):
@@ -20,6 +20,7 @@ def is_valid_ipv4_address(address):
         return False
 
     return True
+
 
 def is_valid_ipv6_address(address):
     try:
